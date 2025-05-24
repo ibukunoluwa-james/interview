@@ -8,6 +8,7 @@ import DisplayTechIcons from "./DisplayTechIcons";
 const InterviewCard = ({
   interviewId,
   userId,
+//The userId prop isn't used
   role,
   type,
   techstack,
